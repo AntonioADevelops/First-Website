@@ -1,21 +1,16 @@
 body {
-  background-image: url("jungle.jpg");
-  background-repeat: no-repeat;
-  background-color: lightgrey;
+  background-color: white;
   color: blue;
 }
 
 h1 {
-  background-color: black;
   color: white;
 }
 
 h2 {
-  background-color: black;
   color: white;
 }
 
 p {
-  background-color: black;
   color: white;
 }
