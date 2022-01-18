@@ -1,5 +1,6 @@
 body {
   background-image: url("jungle.jpg");
+  background-repeat: no-repeat;
   background-color: lightgrey;
   color: blue;
 }
