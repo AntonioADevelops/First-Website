@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head><title>First Web Page</title></head>
+  <head><title> First Web Page </title></head>
   <body>
     <h1>Welcome</h1>
     <p>
